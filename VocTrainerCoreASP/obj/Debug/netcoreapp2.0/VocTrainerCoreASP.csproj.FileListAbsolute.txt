@@ -1,0 +1,11 @@
+C:\Users\Gsu\source\repos\VocTrainerCoreASP\VocTrainerCoreASP\bin\Debug\netcoreapp2.0\VocTrainerCoreASP.deps.json
+C:\Users\Gsu\source\repos\VocTrainerCoreASP\VocTrainerCoreASP\bin\Debug\netcoreapp2.0\VocTrainerCoreASP.runtimeconfig.json
+C:\Users\Gsu\source\repos\VocTrainerCoreASP\VocTrainerCoreASP\bin\Debug\netcoreapp2.0\VocTrainerCoreASP.runtimeconfig.dev.json
+C:\Users\Gsu\source\repos\VocTrainerCoreASP\VocTrainerCoreASP\bin\Debug\netcoreapp2.0\VocTrainerCoreASP.dll
+C:\Users\Gsu\source\repos\VocTrainerCoreASP\VocTrainerCoreASP\bin\Debug\netcoreapp2.0\VocTrainerCoreASP.pdb
+C:\Users\Gsu\source\repos\VocTrainerCoreASP\VocTrainerCoreASP\obj\Debug\netcoreapp2.0\VocTrainerCoreASP.csprojResolveAssemblyReference.cache
+C:\Users\Gsu\source\repos\VocTrainerCoreASP\VocTrainerCoreASP\obj\Debug\netcoreapp2.0\VocTrainerCoreASP.csproj.CoreCompileInputs.cache
+C:\Users\Gsu\source\repos\VocTrainerCoreASP\VocTrainerCoreASP\obj\Debug\netcoreapp2.0\VocTrainerCoreASP.AssemblyInfoInputs.cache
+C:\Users\Gsu\source\repos\VocTrainerCoreASP\VocTrainerCoreASP\obj\Debug\netcoreapp2.0\VocTrainerCoreASP.AssemblyInfo.cs
+C:\Users\Gsu\source\repos\VocTrainerCoreASP\VocTrainerCoreASP\obj\Debug\netcoreapp2.0\VocTrainerCoreASP.dll
+C:\Users\Gsu\source\repos\VocTrainerCoreASP\VocTrainerCoreASP\obj\Debug\netcoreapp2.0\VocTrainerCoreASP.pdb
