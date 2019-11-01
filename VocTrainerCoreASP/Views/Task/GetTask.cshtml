@@ -1,0 +1,48 @@
+﻿@using VocTrainerCoreASP.Models
+@model Exercise
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetTask</title>
+
+</head>
+<body>
+    @{
+
+        <h1>@Model.CutExample</h1>
+        <h1>@Model.ExampleTranslate</h1>
+
+    }
+    <div style="margin-left: 125px; margin-top: 30px;  ">
+
+        @using (Ajax.BeginForm("GetAnswer", "Task", new AjaxOptions { UpdateTargetId = "result" }))
+        {
+
+            <input type="text" name="UserAnswer" id="AnsInp" autofocus style="border-radius: 10px;outline:none;border-color:#2196F3;padding:7px;font-size:20px;margin-top:10px;" />
+
+
+            
+            <input type="hidden" name="RightAnswer" value="@RAnswer" />
+
+            <button type="submit" class="getAnswerButton" style="margin-left:10px; padding:10px;padding-bottom:9px; border-radius: 10px;outline:none;
+
+             font-size: 17px  ; background-color: white;" onclick="ButNewTask.focus()">
+                Ответить
+            </button>
+        }
+
+
+    </div>
+
+
+</body>
+
+
+</html>

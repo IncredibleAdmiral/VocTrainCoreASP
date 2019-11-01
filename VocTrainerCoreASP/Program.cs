@@ -7,6 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using VocTrainerCoreASP.Models;
 
 namespace VocTrainerCoreASP
 {
@@ -14,7 +15,11 @@ namespace VocTrainerCoreASP
     {
         public static void Main(string[] args)
         {
+
+            GeneralWordAndExamplesRepository.InitializationObjects();
+            RandomExercise r = new RandomExercise();
             BuildWebHost(args).Run();
+
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
