@@ -9,3 +9,15 @@ C:\Users\Gsu\source\repos\VocTrainerCoreASP\VocTrainerCoreASP\obj\Debug\netcorea
 C:\Users\Gsu\source\repos\VocTrainerCoreASP\VocTrainerCoreASP\obj\Debug\netcoreapp2.0\VocTrainerCoreASP.AssemblyInfo.cs
 C:\Users\Gsu\source\repos\VocTrainerCoreASP\VocTrainerCoreASP\obj\Debug\netcoreapp2.0\VocTrainerCoreASP.dll
 C:\Users\Gsu\source\repos\VocTrainerCoreASP\VocTrainerCoreASP\obj\Debug\netcoreapp2.0\VocTrainerCoreASP.pdb
+C:\VocTrain\VocTrainCoreASP\VocTrainerCoreASP\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\VocTrain\VocTrainCoreASP\VocTrainerCoreASP\bin\Debug\netcoreapp2.0\VocTrainerCoreASP.deps.json
+C:\VocTrain\VocTrainCoreASP\VocTrainerCoreASP\bin\Debug\netcoreapp2.0\VocTrainerCoreASP.runtimeconfig.json
+C:\VocTrain\VocTrainCoreASP\VocTrainerCoreASP\bin\Debug\netcoreapp2.0\VocTrainerCoreASP.runtimeconfig.dev.json
+C:\VocTrain\VocTrainCoreASP\VocTrainerCoreASP\bin\Debug\netcoreapp2.0\VocTrainerCoreASP.dll
+C:\VocTrain\VocTrainCoreASP\VocTrainerCoreASP\bin\Debug\netcoreapp2.0\VocTrainerCoreASP.pdb
+C:\VocTrain\VocTrainCoreASP\VocTrainerCoreASP\obj\Debug\netcoreapp2.0\VocTrainerCoreASP.csprojAssemblyReference.cache
+C:\VocTrain\VocTrainCoreASP\VocTrainerCoreASP\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\VocTrain\VocTrainCoreASP\VocTrainerCoreASP\obj\Debug\netcoreapp2.0\VocTrainerCoreASP.AssemblyInfoInputs.cache
+C:\VocTrain\VocTrainCoreASP\VocTrainerCoreASP\obj\Debug\netcoreapp2.0\VocTrainerCoreASP.AssemblyInfo.cs
+C:\VocTrain\VocTrainCoreASP\VocTrainerCoreASP\obj\Debug\netcoreapp2.0\VocTrainerCoreASP.dll
+C:\VocTrain\VocTrainCoreASP\VocTrainerCoreASP\obj\Debug\netcoreapp2.0\VocTrainerCoreASP.pdb
